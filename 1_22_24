@@ -1,0 +1,10 @@
+started looking at procedural generation:
+
+-need to create x types of structs
+-then have code to piece x types of structs together 
+
+add a mini map with a top down camera attached to the player with red balls on top of enemies to generate a view the look at
+
+https://forum.unity.com/threads/2-cameras-running-the-same-time.44911/
+
+maybe player prefs
